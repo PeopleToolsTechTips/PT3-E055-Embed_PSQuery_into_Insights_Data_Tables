@@ -18,8 +18,8 @@ But data tables are not spreadsheets and there are specific limits on real estat
 So when the users want more columns, give them a keyed link to a PSQuery report
 
 
-Web Posting:
-YouTube demo:
+* Web Posting:
+* YouTube demo:
 
 Contact:
 * randy@peopletoolstechtips.com
