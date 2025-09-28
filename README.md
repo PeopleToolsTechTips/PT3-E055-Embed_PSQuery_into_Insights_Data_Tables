@@ -18,7 +18,7 @@ But data tables are not spreadsheets and there are specific limits on real estat
 So when the users want more columns, give them a keyed link to a PSQuery report
 
 
-* Web Posting:
+* Web Posting: https://peopletoolstechtips.com/add-a-psquery-to-insights-data-tables/
 * YouTube demo: https://youtu.be/p6FdyQuW_qM
 
 Contact:
